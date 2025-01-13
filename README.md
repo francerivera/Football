@@ -17,7 +17,7 @@ You can find the code for this project in this repository.
 
 ### File Overview:
 
-*   **`scraping.ipynb`:** This Jupyter Notebook contains the code for scraping EPL match data from the web. It handles fetching the HTML, parsing it with BeautifulSoup, and storing the data in a suitable format (e.g., CSV or a pandas DataFrame).
+*   **`scrape.ipynb`:** This Jupyter Notebook contains the code for scraping EPL match data from the web. It handles fetching the HTML, parsing it with BeautifulSoup, and storing the data in a suitable format (e.g., CSV or a pandas DataFrame).
 *   **`predictions.ipynb`:** This Jupyter Notebook contains the code for data cleaning, preprocessing, feature engineering, model training, and evaluation. It uses scikit-learn to build the predictive model.
 
 ## Dependencies
